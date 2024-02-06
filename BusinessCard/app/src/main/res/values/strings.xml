@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="my_phone_number">+1 (xxx) xxx 0000</string>
+    <string name="linkedin_handle">Prathamjot Kaur</string>
+    <string name="my_email">p.kaur159@mybvc.ca</string>
+    <string name="my_name">Prathamjot Kaur</string>
+    <string name="my_title">Software Development Student</string>
+</resources>
